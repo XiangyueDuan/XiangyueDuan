@@ -19,7 +19,7 @@
 <script type="text/javascript" src="src/counter.js"></script>
 <script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1272769745)</script>
 </head>
-
+<script charset="Shift_JIS" src="http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_tr.js"></script> 
 <body style="min-width: 1090px;"><style type="text/css">
 /**
 body{ 
@@ -44,7 +44,6 @@ body{
 }
 .wrapper{width:100%; background:url(/_ts/zw1dp/images/body_topbg.png) top center no-repeat; min-height:800px; background-size:100%; }
 </style>
-<script charset="Shift_JIS" src="http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_tr.js"></script> 
 <div class="wrapper">
 <div class="con1090">
 <div class="header"><script language="javascript" src="src/tsitesclick.js"></script>
