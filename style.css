@@ -1,0 +1,48 @@
+body
+{
+	#background-image:url('./src/bg.jpg');
+	#background-repeat:no-repeat;
+	#margin:auto;
+	#width: 1366px;
+}
+#page{
+	background-image:url('./src/bg.jpg');
+	background-repeat:no-repeat;
+	width: 1366;
+	#:1000px;
+	margin:auto;
+}
+#header{
+	width: 1200;
+	height:150px;
+	margin:auto;
+}
+#welcome{
+	width: 700;
+	height:10;
+	margin:auto;
+}
+#nav{
+	height:50;
+}
+#dxy{
+	height:30px;
+    margin:auto
+}
+#list{
+width: 400px;
+margin-left:100;
+
+height:auto;
+}
+#fileup{
+width: 400px;
+float:left;
+margin-left:250;
+
+height:auto;
+border: medium double rgb(24,15,200);
+}
+#fileclass{
+border: medium double rgb(250,0,255);
+}
