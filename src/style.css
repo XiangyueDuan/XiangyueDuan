@@ -6,7 +6,7 @@ body
 	#width: 1366px;
 }
 #page{
-	background-image:url('./src/bg.jpg');
+	background-image:url('bg.jpg');
 	background-repeat:no-repeat;
 	width: 1366;
 	#:1000px;
